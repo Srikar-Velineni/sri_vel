@@ -1,5 +1,5 @@
 import java.util.Date;
-
+import java.lang.NullPointerException;
 /**
  * Class that stores information about the concrete student
  * 
